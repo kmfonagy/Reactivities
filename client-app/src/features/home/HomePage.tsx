@@ -5,7 +5,7 @@ export default function HomePage() {
     return (
         <Container style={{marginTop: '7em'}}>
             <h1>Home page</h1>
-            <h2>Got to <Link to={'/activities'}>Activities</Link></h2>
+            <h3>Got to <Link to={'/activities'}>Activities</Link></h3>
         </Container>
     )
 }
