@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Button, Icon, Item, Segment } from "semantic-ui-react";
 import { Activity } from "../../../app/models/activity";
 import { Link } from "react-router-dom";
@@ -38,7 +38,7 @@ export default function ActivityListItem({ activity }: Props) {
                     <Icon name='marker'/> {activity.venue}
                 </span>
             </Segment>
-            <Segment secondary>
+            <Segment secondary style={{backgroundColor: '#DADADA', color: '#F3F3F3'}}>
                 Attendees go here
             </Segment>
             <Segment clearing>
@@ -46,7 +46,7 @@ export default function ActivityListItem({ activity }: Props) {
                 <Button
                     as={Link}
                     to={`/activities/${activity.id}`}
-                    color='teal'
+                    style={{backgroundColor: '#0047AB', color:'#f3f3f3'}}
                     floated="right"
                     content='View'
                 />
