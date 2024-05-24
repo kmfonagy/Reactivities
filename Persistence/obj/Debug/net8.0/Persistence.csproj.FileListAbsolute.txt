@@ -13,3 +13,4 @@
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
