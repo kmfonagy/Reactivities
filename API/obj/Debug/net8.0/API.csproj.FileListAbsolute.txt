@@ -133,3 +133,7 @@
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/obj/Debug/net8.0/API.sourcelink.json
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/MediatR.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/AutoMapper.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
