@@ -1,0 +1,15 @@
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
