@@ -137,3 +137,6 @@
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/MediatR.Contracts.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/AutoMapper.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/FluentValidation.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
