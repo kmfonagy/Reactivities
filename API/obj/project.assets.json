@@ -3349,11 +3349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/API.csproj",
+      "projectUniqueName": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/API.csproj",
+      "projectPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/API/API.csproj",
       "packagesPath": "/Users/fonagy/.nuget/packages/",
-      "outputPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/obj/",
+      "outputPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fonagy/.nuget/NuGet/NuGet.Config"
@@ -3368,8 +3368,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Application/Application.csproj": {
-              "projectPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Application/Application.csproj"
+            "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Application/Application.csproj": {
+              "projectPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Application/Application.csproj"
             }
           }
         }

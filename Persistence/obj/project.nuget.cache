@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eixMBa9sWfA=",
+  "dgSpecHash": "/Jpwyfi3Pig=",
   "success": true,
-  "projectFilePath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/Persistence.csproj",
+  "projectFilePath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/fonagy/.nuget/packages/microsoft.data.sqlite.core/8.0.5/microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
     "/Users/fonagy/.nuget/packages/microsoft.entityframeworkcore/8.0.5/microsoft.entityframeworkcore.8.0.5.nupkg.sha512",

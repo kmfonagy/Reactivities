@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONq7eWrGYlU=",
+  "dgSpecHash": "jrRodfE4GIw=",
   "success": true,
-  "projectFilePath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Domain/Domain.csproj",
+  "projectFilePath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
