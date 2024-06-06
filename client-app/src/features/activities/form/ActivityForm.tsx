@@ -1,12 +1,12 @@
-import { ChangeEvent, useEffect, useState } from "react";
-import { Button, Form, Header, Label, Segment } from "semantic-ui-react";
+import { useEffect, useState } from "react";
+import { Button, Form, Header, Segment } from "semantic-ui-react";
 import { useStore } from "../../../app/stores/store";
 import { observer } from "mobx-react-lite";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { Activity } from "../../../app/models/activity";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
 import { v4 as uuid } from "uuid";
-import { ErrorMessage, Formik } from "formik";
+import { Formik } from "formik";
 import * as Yup from 'yup';
 import MyTextInput from "../../../app/common/form/MyTextInput";
 import MyTextArea from "../../../app/common/form/MyTextArea";
@@ -100,4 +100,3 @@ export default observer(function ActivityForm() {
         </Segment>
     )
 })
-
