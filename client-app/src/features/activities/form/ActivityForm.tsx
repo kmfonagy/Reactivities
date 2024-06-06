@@ -1,11 +1,12 @@
 import { ChangeEvent, useEffect, useState } from "react";
-import { Button, Form, Segment } from "semantic-ui-react";
+import { Button, Form, Header, Label, Segment } from "semantic-ui-react";
 import { useStore } from "../../../app/stores/store";
 import { observer } from "mobx-react-lite";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { Activity } from "../../../app/models/activity";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
 import {v4 as uuid} from "uuid";
+import {FormTitleError} from "./FormTitleError";
 
 export default observer(function ActivityForm() {
 
@@ -25,6 +26,8 @@ export default observer(function ActivityForm() {
         venue: ''
     });
 
+    let inputError = false;
+
     useEffect(() => {
         if (id) loadActivity(id).then(activity => setActivity(activity!))
     }, [id, loadActivity]);
@@ -32,9 +35,20 @@ export default observer(function ActivityForm() {
     function handleSubmit() {
         if (!activity.id) {
             activity.id = uuid();
-            createActivity(activity).then(() => navigate(`/activities/${activity.id}`));
+            if (validation(activity)) {
+                inputError = true;
+            } else {
+                console.log(activity);
+            }
+            // createActivity(activity).then(() => navigate(`/activities/${activity.id}`));
         } else {
             updateActivity(activity).then(() => navigate(`/activities/${activity.id}`));
+        }
+    }
+
+    function validation(activity: Activity) {
+        if (activity.title === '') {
+            return true;
         }
     }
 
@@ -47,11 +61,14 @@ export default observer(function ActivityForm() {
 
     return (
         <Segment clearing>
-            <Form on onSubmit={handleSubmit} autoComplete='off'>
+            <Header content='Activity Details' sub color="teal" />
+            <Form onSubmit={handleSubmit} autoComplete='off'>
                 <Form.Input placeholder='Title' value={activity.title} name='title' onChange={handleInputChange} />
+                {inputError && <FormTitleError title={activity.title} />}
                 <Form.TextArea placeholder='Description' value={activity.description} name='description' onChange={handleInputChange} />
                 <Form.Input placeholder='Category' value={activity.category} name='category' onChange={handleInputChange} />
                 <Form.Input type='date' placeholder='Date' value={activity.date} name='date' onChange={handleInputChange} />
+                <Header content='Location Details' sub color="teal" />
                 <Form.Input placeholder='City' value={activity.city} name='city' onChange={handleInputChange} />
                 <Form.Input placeholder='Venue' value={activity.venue} name='venue' onChange={handleInputChange} />
                 <Button loading={loading} floated='right' positive type='submit' content='Submit' />
