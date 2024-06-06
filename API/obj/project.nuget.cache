@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FOPm9tS6YJg=",
+  "dgSpecHash": "Eo0iR6AkFgs=",
   "success": true,
-  "projectFilePath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/API/API.csproj",
+  "projectFilePath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/fonagy/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/fonagy/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

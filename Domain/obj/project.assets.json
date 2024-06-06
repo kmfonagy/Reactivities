@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Domain/Domain.csproj",
+      "projectPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Domain/Domain.csproj",
       "packagesPath": "/Users/fonagy/.nuget/packages/",
-      "outputPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Domain/obj/",
+      "outputPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fonagy/.nuget/NuGet/NuGet.Config"

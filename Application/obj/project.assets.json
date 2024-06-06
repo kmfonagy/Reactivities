@@ -1534,11 +1534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Application/Application.csproj",
+      "projectUniqueName": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Application/Application.csproj",
       "projectName": "Application",
-      "projectPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Application/Application.csproj",
+      "projectPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Application/Application.csproj",
       "packagesPath": "/Users/fonagy/.nuget/packages/",
-      "outputPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Application/obj/",
+      "outputPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fonagy/.nuget/NuGet/NuGet.Config"
@@ -1553,11 +1553,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Domain/Domain.csproj": {
-              "projectPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Domain/Domain.csproj"
+            "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Domain/Domain.csproj": {
+              "projectPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Domain/Domain.csproj"
             },
-            "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Persistence/Persistence.csproj": {
-              "projectPath": "/Users/fonagy/Documents/Web/DotnetReact-PreFormik/Reactivities/Persistence/Persistence.csproj"
+            "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/Persistence.csproj": {
+              "projectPath": "/Users/fonagy/Documents/Web/DotnetReact/Reactivities/Persistence/Persistence.csproj"
             }
           }
         }
