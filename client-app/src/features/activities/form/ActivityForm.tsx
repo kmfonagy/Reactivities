@@ -35,7 +35,7 @@ export default observer(function ActivityForm() {
     const validationSchema = Yup.object({
         title: Yup.string().required('Title is required.'),
         description: Yup.string().required('Description is required.'),
-        catergory: Yup.string().required('Category is required.'),
+        category: Yup.string().required('Category is required.'),
         date: Yup.string().required('Date is required.'),
         venue: Yup.string().required('Venue is required.'),
         city: Yup.string().required('City is required.'),
@@ -63,7 +63,7 @@ export default observer(function ActivityForm() {
                 enableReinitialize
                 validationSchema={validationSchema}
                 initialValues={activity}
-                onSubmit={() => console.log(activity)}
+                onSubmit={values => handleFormSubmit(values)}
             >
                 {({ handleSubmit, isValid, isSubmitting, dirty }) => (
                     <Form className="ui form" onSubmit={handleSubmit} autoComplete='off'>
