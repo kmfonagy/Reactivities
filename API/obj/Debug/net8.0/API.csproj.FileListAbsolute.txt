@@ -154,3 +154,5 @@
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Infrastructure.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Infrastructure.pdb
