@@ -156,3 +156,5 @@
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Infrastructure.dll
 /Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Infrastructure.pdb
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/CloudinaryDotNet.dll
+/Users/fonagy/Documents/Web/DotnetReact/Reactivities/API/bin/Debug/net8.0/Newtonsoft.Json.dll
