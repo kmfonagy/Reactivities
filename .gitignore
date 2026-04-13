@@ -74,3 +74,5 @@ Thumbs.db
 .idea/
 .vscode/
 *.orig
+API/reactivities.db-shm
+API/reactivities.db-wal
